@@ -1,0 +1,10 @@
+insert into book values (1,'Java','abc');
+insert into book values (2,'C','def');
+insert into book values (3,'DS','gh');
+insert into book values (4,'Algo','jkl');
+insert into book values (5,'OS','mno');
+insert into book values (6,'DBMS','pqe');
+insert into book values (7,'Kotlin','stu');
+insert into book values (8,'Python','vwx');
+insert into book values (9,'C#','yza');
+insert into book values (10,'JavaScript','bcd);
